@@ -1045,11 +1045,6 @@ sns.lmplot('Year','Age_Win',data=data,lowess=True, aspect=2, hue='Category')
 
 
 
-    <seaborn.axisgrid.FacetGrid at 0x2a99ed9a088>
-
-
-
-
 ![png](DE_Project_files/DE_Project_33_1.png)
 
 
