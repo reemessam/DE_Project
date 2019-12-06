@@ -1064,6 +1064,4 @@ sns.lmplot('Year','Age_Win',data=data,lowess=True, aspect=2, hue='Category')
 
 
 
-```python
 
-```
