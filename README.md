@@ -1011,9 +1011,6 @@ sns.lmplot('Year','Age_Win',data=data,lowess=True, aspect=2, hue='Category')
 
 
 
-    <seaborn.axisgrid.FacetGrid at 0x2a9a68cb888>
-
-
 
 
 ![png](DE_Project_files/DE_Project_29_1.png)
@@ -1056,11 +1053,11 @@ sns.lmplot('Year','Age_Win',data=data,lowess=True, aspect=2, hue='Category')
 ![png](DE_Project_files/DE_Project_33_1.png)
 
 
-##### Acording to the previous statistics:
-##### The mean age for winning a nobel rize is 59 
-##### Medicin is the top category in which nobel prize is won
-##### USA is the top country from which nobel prize winners come from either born there or belong to an organization there
-##### Nobel prize winners are mosly males 
+#### Acording to the previous statistics:
+#### The mean age for winning a nobel rize is 59 
+#### Medicin is the top category in which nobel prize is won
+#### USA is the top country from which nobel prize winners come from either born there or belong to an organization there
+#### Nobel prize winners are mosly males 
 
 
 
