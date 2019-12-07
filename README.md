@@ -3,16 +3,16 @@
 
  ##  Nobel Prize 
 
- - Nobel Prize is an international scientific award. It is mostly given to people who had a big contribution in a any filed. The felds are chemistry, literature, physics, medicine, economics, and peace. 
+> - #### Nobel Prize is an international scientific award. It is mostly given to people who had a big contribution in a any filed. The felds are chemistry, literature, physics, medicine, economics, and peace. 
 590 Nobel prizes were won by 935 people and organizations. The first prize was given in year 1901 and it is still being awarded till today.
 
-- The dataset used here is taken from https://www.datacamp.com/projects/441
+> - #### The dataset used here is taken from https://www.datacamp.com/projects/441
 
 
-- The webpage for this work : https://reemessam.github.io/Nobel-Prize/
+> - #### The webpage for this work : https://reemessam.github.io/Nobel-Prize/
 
 
-- This dataset was investigated and analyzed to answer the follwing questions:
+> - #### This dataset was investigated and analyzed to answer the follwing questions:
 
      - Is there a relation between the organization country and the category of the prize? 
      - Is a specific gender that wins the most prizes?
@@ -22,7 +22,7 @@
      - Is there anyone who was awarded the prize more than once?
     
     
-- References: 
+> - #### References: 
      - https://en.wikipedia.org/wiki/Nobel_Prize#cite_note-8
      - https://www.kaggle.com/nobelfoundation/nobel-laureates/kernels
      
